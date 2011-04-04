@@ -1,0 +1,332 @@
+ThelloWorld
+v7
+r0
+t323578193.652515
+cCheck dependencies
+cProcessInfoPlistFile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/Info.plist helloWorld-Info.plist
+cCompileXIB /Users/brendanbarr/mobile/helloWorld/MainWindow.xib
+cCompileXIB /Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib
+cProcessPCH /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch.gch helloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o /Users/brendanbarr/mobile/helloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldAppDelegate.o /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldViewController.o /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld normal i386
+cGenerateDSYMFile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app.dSYM /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+cTouch /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.h
+c000000004D991A3100000000000001EE
+t1301879345
+s494
+i<UIKit/UIKit.h>
+
+N/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m
+c000000004D99151E0000000000000A97
+t1301878046
+s2711
+i"helloWorldAppDelegate.h"
+i"helloWorldViewController.h"
+
+N/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.h
+c000000004D9930A80000000000000136
+t1301885096
+s310
+i<UIKit/UIKit.h>
+
+N/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m
+c000000004D99317F00000000000006B1
+t1301885311
+s1713
+i"helloWorldViewController.h"
+
+N/Users/brendanbarr/mobile/helloWorld/MainWindow.xib
+c000000004D99151E0000000000004E4D
+t1301878046
+s20045
+
+N/Users/brendanbarr/mobile/helloWorld/UIButton.h
+c000000004D99301200000000000000DF
+t1301884946
+s223
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/brendanbarr/mobile/helloWorld/UIButton.m
+c000000004D99301200000000000000AE
+t1301884946
+s174
+i"UIButton.h"
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app
+t1301885393
+s238
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app.dSYM
+t1301885393
+s102
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/Info.plist
+t1301879345
+s603
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/MainWindow.nib
+t1301879349
+s1687
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/PkgInfo
+t1301879345
+s8
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+t1301885393
+s17688
+
+N/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorldViewController.nib
+t1301885317
+s3434
+
+N/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/UIButton.o
+t2
+s0
+
+N/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList
+c000000004D9931D1000000000000019F
+t1301885393
+s415
+
+N/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldAppDelegate.o
+t1301885317
+s48004
+
+N/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldViewController.o
+t1301885317
+s37092
+
+N/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
+t1301879351
+s6300
+
+N/Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib
+c000000004D9930E9000000000000541A
+t1301885161
+s21530
+
+N/Users/brendanbarr/mobile/helloWorld/helloWorld_Prefix.pch
+c000000004D99151E00000000000000BD
+t1301878046
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/brendanbarr/mobile/helloWorld/main.m
+c000000004D99151E0000000000000169
+t1301878046
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch.gch
+t1301879351
+s15211536
+
+NhelloWorld-Info.plist
+c000000004D99151E000000000000038D
+t1301878046
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323578193#323578193#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/UIButton.o /Users/brendanbarr/mobile/helloWorld/UIButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323578117.693000
+e323578117.847803
+r0
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/UIButton.o
+x/Users/brendanbarr/mobile/helloWorld/UIButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/brendanbarr/mobile/helloWorld/UIButton.m:8:
+o/Users/brendanbarr/mobile/helloWorld/UIButton.h:11: error: duplicate interface declaration for class 'UIButton'
+o/Users/brendanbarr/mobile/helloWorld/UIButton.h:13: error: redefinition of 'struct UIButton'
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'contentEdgeInsets' requires method '-contentEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'contentEdgeInsets' requires the method 'setContentEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleEdgeInsets' requires method '-titleEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleEdgeInsets' requires the method 'setTitleEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'reversesTitleShadowWhenHighlighted' requires method '-reversesTitleShadowWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'reversesTitleShadowWhenHighlighted' requires the method 'setReversesTitleShadowWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageEdgeInsets' requires method '-imageEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageEdgeInsets' requires the method 'setImageEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenHighlighted' requires method '-adjustsImageWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenHighlighted' requires the method 'setAdjustsImageWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenDisabled' requires method '-adjustsImageWhenDisabled' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenDisabled' requires the method 'setAdjustsImageWhenDisabled:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'showsTouchWhenHighlighted' requires method '-showsTouchWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'showsTouchWhenHighlighted' requires the method 'setShowsTouchWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'buttonType' requires method '-buttonType' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitle' requires method '-currentTitle' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitleColor' requires method '-currentTitleColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitleShadowColor' requires method '-currentTitleShadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentImage' requires method '-currentImage' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentBackgroundImage' requires method '-currentBackgroundImage' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '+buttonWithType:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-imageRectForContentRect:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleRectForContentRect:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-contentRectForBounds:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-backgroundRectForBounds:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-backgroundImageForState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-imageForState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleShadowColorForState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleColorForState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleForState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setBackgroundImage:forState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setImage:forState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitleShadowColor:forState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitleColor:forState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitle:forState:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-initWithCoder:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-encodeWithCoder:' not found
+o/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: class 'UIButton' does not fully implement the 'NSCoding' protocol
+lSLF07#2@55"Compile /Users/brendanbarr/mobile/helloWorld/UIButton.m323578117#323578117#0(7372"In file included from /Users/brendanbarr/mobile/helloWorld/UIButton.m:8:/Users/brendanbarr/mobile/helloWorld/UIButton.h:11: error: duplicate interface declaration for class 'UIButton'/Users/brendanbarr/mobile/helloWorld/UIButton.h:13: error: redefinition of 'struct UIButton'/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'contentEdgeInsets' requires method '-contentEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'contentEdgeInsets' requires the method 'setContentEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleEdgeInsets' requires method '-titleEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleEdgeInsets' requires the method 'setTitleEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'reversesTitleShadowWhenHighlighted' requires method '-reversesTitleShadowWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'reversesTitleShadowWhenHighlighted' requires the method 'setReversesTitleShadowWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageEdgeInsets' requires method '-imageEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageEdgeInsets' requires the method 'setImageEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenHighlighted' requires method '-adjustsImageWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenHighlighted' requires the method 'setAdjustsImageWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenDisabled' requires method '-adjustsImageWhenDisabled' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'adjustsImageWhenDisabled' requires the method 'setAdjustsImageWhenDisabled:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'showsTouchWhenHighlighted' requires method '-showsTouchWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'showsTouchWhenHighlighted' requires the method 'setShowsTouchWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'buttonType' requires method '-buttonType' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitle' requires method '-currentTitle' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitleColor' requires method '-currentTitleColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentTitleShadowColor' requires method '-currentTitleShadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentImage' requires method '-currentImage' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'currentBackgroundImage' requires method '-currentBackgroundImage' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '+buttonWithType:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-imageRectForContentRect:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleRectForContentRect:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-contentRectForBounds:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-backgroundRectForBounds:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-backgroundImageForState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-imageForState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleShadowColorForState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleColorForState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-titleForState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setBackgroundImage:forState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setImage:forState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitleShadowColor:forState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitleColor:forState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-setTitle:forState:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: incomplete implementation of class 'UIButton'/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-initWithCoder:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: method definition for '-encodeWithCoder:' not found/Users/brendanbarr/mobile/helloWorld/UIButton.m:12: warning: class 'UIButton' does not fully implement the 'NSCoding' protocol45(4@52"Duplicate interface declaration for class 'UIButton'323578117#73#112#2(7@69"In file included from /Users/brendanbarr/mobile/helloWorld/UIButton.m323578117#18446744073709551615#0#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#8#0#8#0#0"0(13@103"Duplicate interface declaration for class 'UIButton' in /Users/brendanbarr/mobile/helloWorld/UIButton.h323578117#18446744073709551615#0#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.h323577746#11#0#11#0#0"0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.h323577746#11#0#11#0#0"0(4@33"Redefinition of 'struct UIButton'323578117#185#93#2(7@69"In file included from /Users/brendanbarr/mobile/helloWorld/UIButton.m323578117#18446744073709551615#0#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#8#0#8#0#0"0(13@84"Redefinition of 'struct UIButton' in /Users/brendanbarr/mobile/helloWorld/UIButton.h323578117#18446744073709551615#0#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.h323577746#13#0#13#0#0"0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.h323577746#13#0#13#0#19"redefinition of '*'0(22@142"Property 'contentEdgeInsets' requires method '-contentEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#278#204#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@149"Property 'contentEdgeInsets' requires the method 'setContentEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#482#211#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@138"Property 'titleEdgeInsets' requires method '-titleEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#693#200#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@145"Property 'titleEdgeInsets' requires the method 'setTitleEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#893#207#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@176"Property 'reversesTitleShadowWhenHighlighted' requires method '-reversesTitleShadowWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#1100#238#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@183"Property 'reversesTitleShadowWhenHighlighted' requires the method 'setReversesTitleShadowWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#1338#245#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@138"Property 'imageEdgeInsets' requires method '-imageEdgeInsets' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#1583#200#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@145"Property 'imageEdgeInsets' requires the method 'setImageEdgeInsets:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#1783#207#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@162"Property 'adjustsImageWhenHighlighted' requires method '-adjustsImageWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#1990#224#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@169"Property 'adjustsImageWhenHighlighted' requires the method 'setAdjustsImageWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#2214#231#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@156"Property 'adjustsImageWhenDisabled' requires method '-adjustsImageWhenDisabled' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#2445#218#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@163"Property 'adjustsImageWhenDisabled' requires the method 'setAdjustsImageWhenDisabled:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#2663#225#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@158"Property 'showsTouchWhenHighlighted' requires method '-showsTouchWhenHighlighted' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#2888#220#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@165"Property 'showsTouchWhenHighlighted' requires the method 'setShowsTouchWhenHighlighted:' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#3108#227#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@128"Property 'buttonType' requires method '-buttonType' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#3335#190#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@132"Property 'currentTitle' requires method '-currentTitle' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#3525#194#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@142"Property 'currentTitleColor' requires method '-currentTitleColor' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#3719#204#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@154"Property 'currentTitleShadowColor' requires method '-currentTitleShadowColor' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#3923#216#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@132"Property 'currentImage' requires method '-currentImage' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#4139#194#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@152"Property 'currentBackgroundImage' requires method '-currentBackgroundImage' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#4333#214#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@128"Property 'titleLabel' requires method '-titleLabel' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#4547#190#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@126"Property 'imageView' requires method '-imageView' to be defined - use @synthesize, @dynamic or provide a method implementation323578117#4737#188#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#0"0(22@45"Incomplete implementation of class 'UIButton'323578117#4925#107#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#38"incomplete implementation of class '*'0(22@50"Method definition for '+buttonWithType:' not found323578117#5032#112#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@45"Incomplete implementation of class 'UIButton'323578117#5144#107#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#38"incomplete implementation of class '*'0(22@59"Method definition for '-imageRectForContentRect:' not found323578117#5251#121#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@59"Method definition for '-titleRectForContentRect:' not found323578117#5372#121#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@56"Method definition for '-contentRectForBounds:' not found323578117#5493#118#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@59"Method definition for '-backgroundRectForBounds:' not found323578117#5611#121#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@59"Method definition for '-backgroundImageForState:' not found323578117#5732#121#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@49"Method definition for '-imageForState:' not found323578117#5853#111#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@60"Method definition for '-titleShadowColorForState:' not found323578117#5964#122#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@54"Method definition for '-titleColorForState:' not found323578117#6086#116#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@49"Method definition for '-titleForState:' not found323578117#6202#111#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@63"Method definition for '-setBackgroundImage:forState:' not found323578117#6313#125#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@53"Method definition for '-setImage:forState:' not found323578117#6438#115#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@64"Method definition for '-setTitleShadowColor:forState:' not found323578117#6553#126#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@58"Method definition for '-setTitleColor:forState:' not found323578117#6679#120#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@53"Method definition for '-setTitle:forState:' not found323578117#6799#115#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@45"Incomplete implementation of class 'UIButton'323578117#6914#107#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found323578117#7021#111#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found323578117#7132#113#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#35"method definition for '*' not found0(22@65"Class 'UIButton' does not fully implement the 'NSCoding' protocol323578117#7245#127#0(6@47"/Users/brendanbarr/mobile/helloWorld/UIButton.m323577746#12#0#12#0#51"class '*' does not fully implement the '*' protocol0(0#0#47"/Users/brendanbarr/mobile/helloWorld/UIButton.m8615671616#1960"    cd /Users/brendanbarr/mobile/helloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-generated-files.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-project-headers.hmap -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -I/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/include -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386 -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources -include /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch -c /Users/brendanbarr/mobile/helloWorld/UIButton.m -o /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/UIButton.o1#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldAppDelegate.o /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323578117.440089
+e323578117.692908
+r1
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldAppDelegate.o
+x/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m323578117#323578117#0(0"0(0#0#68"/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m8614427840#1994"    cd /Users/brendanbarr/mobile/helloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-generated-files.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-project-headers.hmap -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -I/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/include -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386 -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources -include /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch -c /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldAppDelegate.m -o /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldAppDelegate.o0#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldViewController.o /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323578117.441088
+e323578117.730302
+r1
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldViewController.o
+x/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m323578117#323578117#0(0"0(0#0#71"/Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m8615664608#2000"    cd /Users/brendanbarr/mobile/helloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-generated-files.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-project-headers.hmap -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -I/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/include -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386 -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources -include /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch -c /Users/brendanbarr/mobile/helloWorld/Classes/helloWorldViewController.m -o /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorldViewController.o0#
+
+CCompileC build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o /Users/brendanbarr/mobile/helloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323572151.304957
+e323572151.458677
+r1
+xCompileC
+xbuild/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o
+x/Users/brendanbarr/mobile/helloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/brendanbarr/mobile/helloWorld/main.m323572151#323572151#0(0"0(0#0#43"/Users/brendanbarr/mobile/helloWorld/main.m8605846048#1952"    cd /Users/brendanbarr/mobile/helloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-generated-files.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-project-headers.hmap -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -I/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/include -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386 -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources -include /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch -c /Users/brendanbarr/mobile/helloWorld/main.m -o /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/brendanbarr/mobile/helloWorld/MainWindow.xib
+s323572145.945432
+e323572149.284875
+r1
+xCompileXIB
+x/Users/brendanbarr/mobile/helloWorld/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323572145#323572149#0(0"0(0#0#51"/Users/brendanbarr/mobile/helloWorld/MainWindow.xib8606989792#567"    cd /Users/brendanbarr/mobile/helloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/MainWindow.nib /Users/brendanbarr/mobile/helloWorld/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib
+s323578116.950963
+e323578117.439769
+r1
+xCompileXIB
+x/Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib
+lSLF07#2@39"CompileXIB helloWorldViewController.xib323578116#323578117#0(0"0(0#0#65"/Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib30399761347838056#595"    cd /Users/brendanbarr/mobile/helloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorldViewController.nib /Users/brendanbarr/mobile/helloWorld/helloWorldViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app.dSYM /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+s323578193.612435
+e323578193.628751
+r1
+xGenerateDSYMFile
+x/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app.dSYM
+x/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/helloWorld.app.dSYM build/Debug-iphonesimulator/helloWorld.app/helloWorld323578193#323578193#0(0"0(0#0#90"/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld8608611808#386"    cd /Users/brendanbarr/mobile/helloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld -o /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app.dSYM0#
+
+CLd /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld normal i386
+s323578193.403171
+e323578193.612333
+r1
+xLd
+x/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld
+xnormal
+xi386
+lSLF07#2@95"Link /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld323578193#323578193#0(0"0(0#0#0"8614932864#905"    cd /Users/brendanbarr/mobile/helloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -filelist /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/Objects-normal/i386/helloWorld.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/helloWorld0#
+
+CProcessInfoPlistFile /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/Info.plist helloWorld-Info.plist
+s323572145.825592
+e323572145.945336
+r1
+xProcessInfoPlistFile
+x/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/Info.plist
+xhelloWorld-Info.plist
+lSLF07#2@29"Process helloWorld-Info.plist323572145#323572145#0(0"0(0#0#58"/Users/brendanbarr/mobile/helloWorld/helloWorld-Info.plist28429445101453416#482"    cd /Users/brendanbarr/mobile/helloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloWorld-Info.plist -genpkginfo /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app/Info.plist0#
+
+CProcessPCH /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch.gch helloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323572149.285342
+e323572151.304696
+r1
+xProcessPCH
+x/var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch.gch
+xhelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile helloWorld_Prefix.pch323572149#323572151#0(0"0(0#0#58"/Users/brendanbarr/mobile/helloWorld/helloWorld_Prefix.pch8607146240#1843"    cd /Users/brendanbarr/mobile/helloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-generated-files.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-own-target-headers.hmap -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-all-target-headers.hmap -iquote /Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/helloWorld-project-headers.hmap -F/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator -I/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/include -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources/i386 -I/Users/brendanbarr/mobile/helloWorld/build/helloWorld.build/Debug-iphonesimulator/helloWorld.build/DerivedSources -c /Users/brendanbarr/mobile/helloWorld/helloWorld_Prefix.pch -o /var/folders/Jk/JkHZj2gGHVGdsrmZ8kucbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloWorld_Prefix-gnfqnnukxtuzmcawcdevewofllwj/helloWorld_Prefix.pch.gch0#
+
+CTouch /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app
+s323578193.628838
+e323578193.652468
+r1
+xTouch
+x/Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app
+lSLF07#2@85"Touch /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app323578193#323578193#0(0"0(0#0#0"8605800960#277"    cd /Users/brendanbarr/mobile/helloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/brendanbarr/mobile/helloWorld/build/Debug-iphonesimulator/helloWorld.app0#
+
